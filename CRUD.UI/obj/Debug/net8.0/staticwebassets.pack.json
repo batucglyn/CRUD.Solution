@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRUD.UI.npd7ujla75.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUD.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUD.UI.props",
+      "PackagePath": "build\\CRUD.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD.UI.props",
+      "PackagePath": "buildMultiTargeting\\CRUD.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUD.UI.props",
+      "PackagePath": "buildTransitive\\CRUD.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

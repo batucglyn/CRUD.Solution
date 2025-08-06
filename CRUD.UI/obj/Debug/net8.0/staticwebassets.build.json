@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "kS3cMr2lsmmSGz77rAkHTQfqsC2Usw/0T6lgHYknu4c=",
+  "Source": "CRUD.UI",
+  "BasePath": "_content/CRUD.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CRUD.UI\\wwwroot",
+      "Source": "CRUD.UI",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.UI.styles.css",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "CRUD.UI#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "npd7ujla75",
+      "Integrity": "Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.UI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.UI.bundle.scp.css",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "CRUD.UI#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "npd7ujla75",
+      "Integrity": "Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.UI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\error.svg",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "error#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3iwubkh3iq",
+      "Integrity": "9XRmwQ0X13DL6FasTx/6HZ2cpKYSDQNLj7rqUngh3uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.svg"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\favicon.ico",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.min.js",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.min.js",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0l543ewpl",
+      "Integrity": "T7ad2xAWz7SU3JW6WeCeeFD277TAtBTy41NVPqCYNjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "42gpqbyvs7",
+      "Integrity": "jGMDYZ0U4h00W821Ir4Jc8YmmwLMpgKCtrCnYiCd0rU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\logo.png",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9l4yhz6pog",
+      "Integrity": "Q/dIRhSpwLLb/zcBTUHDnaztxZqr9fzLibQd9N+lMXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cuquy3615b",
+      "Integrity": "ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\StyleSheet.css",
+      "SourceId": "CRUD.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\",
+      "BasePath": "_content/CRUD.UI",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zsgxx0ffs5",
+      "Integrity": "U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CRUD.UI.bundle.scp.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.UI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 00:05:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A="
+        }
+      ]
+    },
+    {
+      "Route": "CRUD.UI.npd7ujla75.bundle.scp.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUD.UI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 00:05:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npd7ujla75"
+        },
+        {
+          "Name": "label",
+          "Value": "CRUD.UI.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A="
+        }
+      ]
+    },
+    {
+      "Route": "CRUD.UI.npd7ujla75.styles.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.UI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 00:05:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "npd7ujla75"
+        },
+        {
+          "Name": "label",
+          "Value": "CRUD.UI.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A="
+        }
+      ]
+    },
+    {
+      "Route": "CRUD.UI.styles.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CRUD.UI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 06 Jul 2025 00:05:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxtm+qvrjfofEPMKAJbxXBKdB2cr2v2TxVWZqeBWk/A="
+        }
+      ]
+    },
+    {
+      "Route": "error.3iwubkh3iq.svg",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\error.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9XRmwQ0X13DL6FasTx/6HZ2cpKYSDQNLj7rqUngh3uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iwubkh3iq"
+        },
+        {
+          "Name": "label",
+          "Value": "error.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XRmwQ0X13DL6FasTx/6HZ2cpKYSDQNLj7rqUngh3uU="
+        }
+      ]
+    },
+    {
+      "Route": "error.svg",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\error.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9XRmwQ0X13DL6FasTx/6HZ2cpKYSDQNLj7rqUngh3uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9XRmwQ0X13DL6FasTx/6HZ2cpKYSDQNLj7rqUngh3uU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 00:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Jul 2025 00:49:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.min.dd6z7egasc.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.min.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7ad2xAWz7SU3JW6WeCeeFD277TAtBTy41NVPqCYNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7ad2xAWz7SU3JW6WeCeeFD277TAtBTy41NVPqCYNjs="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.min.x0l543ewpl.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T7ad2xAWz7SU3JW6WeCeeFD277TAtBTy41NVPqCYNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0l543ewpl"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T7ad2xAWz7SU3JW6WeCeeFD277TAtBTy41NVPqCYNjs="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.unobtrusive.min.42gpqbyvs7.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGMDYZ0U4h00W821Ir4Jc8YmmwLMpgKCtrCnYiCd0rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "42gpqbyvs7"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGMDYZ0U4h00W821Ir4Jc8YmmwLMpgKCtrCnYiCd0rU="
+        }
+      ]
+    },
+    {
+      "Route": "jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGMDYZ0U4h00W821Ir4Jc8YmmwLMpgKCtrCnYiCd0rU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGMDYZ0U4h00W821Ir4Jc8YmmwLMpgKCtrCnYiCd0rU="
+        }
+      ]
+    },
+    {
+      "Route": "logo.9l4yhz6pog.png",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/dIRhSpwLLb/zcBTUHDnaztxZqr9fzLibQd9N+lMXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9l4yhz6pog"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/dIRhSpwLLb/zcBTUHDnaztxZqr9fzLibQd9N+lMXQ="
+        }
+      ]
+    },
+    {
+      "Route": "logo.png",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "627937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q/dIRhSpwLLb/zcBTUHDnaztxZqr9fzLibQd9N+lMXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q/dIRhSpwLLb/zcBTUHDnaztxZqr9fzLibQd9N+lMXQ="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cuquy3615b"
+        },
+        {
+          "Name": "label",
+          "Value": "Rotativa/wkhtmltopdf.exe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "Rotativa/wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41563648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.microsoft.portable-executable"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNF2gjIL/9RbIgjtE7E21ZE56CVzdF8UVWzyXpXL2Ag="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.zsgxx0ffs5.css",
+      "AssetFile": "C:\\Users\\batuh\\Desktop\\CRUD\\CRUD.Solution\\CRUD.UI\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 15 Nov 2024 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsgxx0ffs5"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U0QNhD4uBhJ7ScGl6Q1x/ZLPgwm21StzEevAazLvUF0="
+        }
+      ]
+    }
+  ]
+}

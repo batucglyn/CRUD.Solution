@@ -1,0 +1,17 @@
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.deps.json
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.runtimeconfig.json
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Infrastructure.pdb
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Core.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\bin\Debug\net8.0\CRUD.Core.pdb
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.AssemblyInfo.cs
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Inf.43FAA5D9.Up2Date
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\refint\CRUD.Infrastructure.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.pdb
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\CRUD.Infrastructure.genruntimeconfig.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Infrastructure\obj\Debug\net8.0\ref\CRUD.Infrastructure.dll

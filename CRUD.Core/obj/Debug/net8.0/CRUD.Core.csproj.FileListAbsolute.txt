@@ -1,0 +1,12 @@
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.AssemblyInfo.cs
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\bin\Debug\net8.0\CRUD.Core.deps.json
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\bin\Debug\net8.0\CRUD.Core.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\bin\Debug\net8.0\CRUD.Core.pdb
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\refint\CRUD.Core.dll
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\CRUD.Core.pdb
+C:\Users\batuh\Desktop\CRUD\CRUD.Solution\CRUD.Core\obj\Debug\net8.0\ref\CRUD.Core.dll
