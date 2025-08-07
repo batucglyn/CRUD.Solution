@@ -117,21 +117,9 @@ dotnet run --project src/CRUD.UI
 
 Navigate to: `https://localhost:5001`
 
----
-
-## 📄 License
-
-This project is open-sourced under the MIT license.
-
----
 
 ## 👨‍💻 Author
 
 **Batuhan Çağlayan**  
 GitHub: [https://github.com/batucglyn](https://github.com/batucglyn)
 
----
-
-## ⭐ Contributions
-
-Feel free to open issues or pull requests for improvements or fixes.
