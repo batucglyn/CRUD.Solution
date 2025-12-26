@@ -118,8 +118,4 @@ dotnet run --project src/CRUD.UI
 Navigate to: `https://localhost:5001`
 
 
-## 👨‍💻 Author
-
-**Batuhan Çağlayan**  
-GitHub: [https://github.com/batucglyn](https://github.com/batucglyn)
 
